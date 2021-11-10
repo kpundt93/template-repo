@@ -6,3 +6,5 @@ import { ExampleClass } from "./project";
 
 const test = new ExampleClass();
 console.log(test);
+
+$('body').val();
